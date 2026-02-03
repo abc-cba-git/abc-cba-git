@@ -30,7 +30,6 @@
 ### **⚙️ Инструменты:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
@@ -55,9 +54,11 @@ _Простого Telegram бота_
 ## 📚 **Что я изучаю:**
 
 - **Python** - основы и продвинутые темы
-- **Веб-разработка** - HTML, CSS, JavaScript
+- **Веб-разработка** - HTML
 - **Git и GitHub** - контроль версий
 - **Алгоритмы** и структуры данных
+- **PostgteSQL** - написание запросов
+- 
 
 ---
 
