@@ -7,18 +7,6 @@
 
 ---
 
-## 📊 **Моя статистика:**
-
-<div align="center">
-  
-  ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=abc-cba-git&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=abc-cba-git&layout=compact&theme=radical&hide_border=true)
-  
-</div>
-
----
-
 ## 🛠 **Мои технологии:**
 
 ### **🧠 Языки программирования:**
