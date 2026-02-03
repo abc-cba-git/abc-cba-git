@@ -12,6 +12,8 @@
 ### **🧠 Языки программирования:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ### **⚙️ Инструменты:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -22,6 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FF6600?style=for-the-badge&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### **🌟 Мои навыки (Soft Skills):**
 ![Внимательность](https://img.shields.io/badge/Внимательность-4CAF50?style=for-the-badge&logo=eye&logoColor=white)
