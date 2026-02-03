@@ -26,7 +26,7 @@
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FF6600?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### **🌟 Мои навыки (Soft Skills):**
+### **🌟 Мои навыки:**
 ![Внимательность](https://img.shields.io/badge/Внимательность-4CAF50?style=for-the-badge&logo=eye&logoColor=white)
 ![Поиск ошибок](https://img.shields.io/badge/Поиск_ошибок-FF9800?style=for-the-badge&logo=bug&logoColor=white)
 ![Обучение](https://img.shields.io/badge/Постоянное_обучение-2196F3?style=for-the-badge&logo=book&logoColor=white)
