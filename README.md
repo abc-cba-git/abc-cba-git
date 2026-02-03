@@ -53,7 +53,6 @@ _Простого Telegram бота_
 - **Git и GitHub** - контроль версий
 - **Алгоритмы** и структуры данных
 - **PostgteSQL** - написание запросов
-- 
 
 ---
 
@@ -69,11 +68,7 @@ _Простого Telegram бота_
 
 ## 📫 **Как связаться:**
 
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/@tmetnneemt" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
