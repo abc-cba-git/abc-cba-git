@@ -71,9 +71,12 @@ _Простого Telegram бота_
 
 ## 📫 **Как связаться:**
 
-<p align="center">
-  <!-- Анимированная картинка -->
-  <img src="https://tenor.com/ru/view/happy-groundhog-day-gif-17529021936768136158 " width="200" alt="Happy coding">
+### 🌞 **Happy Groundhog Day!** 🐹
+
+<!-- Прямая ссылка на ваш GIF -->
+[Посмотреть GIF](https://tenor.com/ru/view/happy-groundhog-day-gif-17529021936768136158)
+
+<br>
   
   <br>
   <a href="https://t.me/tmetnneemt" target="_blank">
