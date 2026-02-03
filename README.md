@@ -70,13 +70,45 @@ _Простого Telegram бота_
 ---
 
 ## 📫 **Как связаться:**
+## 📫 **Как связаться:**
 
-### 🌞 **Happy Groundhog Day!** 🐹
+<div align="center">
 
-<!-- Прямая ссылка на ваш GIF -->
-[Посмотреть GIF](https://tenor.com/ru/view/happy-groundhog-day-gif-17529021936768136158)
+### 🎯 **Немного развлечения:**
 
-<br>
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+  <!-- Первая ссылка -->
+  <div style="text-align: center;">
+    <a href="https://tenor.com/ru/view/happy-groundhog-day-gif-17529021936768136158" target="_blank">
+      <div style="background: linear-gradient(135deg, #FF6B6B, #FFE66D); padding: 10px; border-radius: 10px;">
+        🐹<br><b>Groundhog Day</b>
+      </div>
+    </a>
+  </div>
+  
+  <!-- Вторая ссылка -->
+  <div style="text-align: center;">
+    <a href="https://tenor.com/ru/view/copy-paste-pasta-spam-yap-gif-4754588346985310438" target="_blank">
+      <div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 10px; border-radius: 10px;">
+        📋<br><b>Copy Paste</b>
+      </div>
+    </a>
+  </div>
+</div>
+
+---
+
+### 💬 **Свяжитесь со мной:**
+
+```python
+# Пример связи со мной
+contacts = {
+    "email": "ваш@email.com",
+    "telegram": "@ваш_ник", 
+    "github": "https://github.com/abc-cba-git"
+}
+
+print("Готов к общению и сотрудничеству! 🚀")
   
   <br>
   <a href="https://t.me/tmetnneemt" target="_blank">
