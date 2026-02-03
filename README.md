@@ -35,6 +35,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-FF6600?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **🌟 Мои навыки (Soft Skills):**
+![Внимательность](https://img.shields.io/badge/Внимательность-4CAF50?style=for-the-badge&logo=eye&logoColor=white)
+![Поиск ошибок](https://img.shields.io/badge/Поиск_ошибок-FF9800?style=for-the-badge&logo=bug&logoColor=white)
+![Обучение](https://img.shields.io/badge/Постоянное_обучение-2196F3?style=for-the-badge&logo=book&logoColor=white)
 ---
 
 ## 📁 **Мои проекты:**
