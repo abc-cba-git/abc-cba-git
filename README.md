@@ -71,15 +71,17 @@ _Простого Telegram бота_
 
 ## 📫 **Как связаться:**
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/80OYlCkYM94AAAAd/happy-groundhog-day.gif" width="400">
+  <br>
+  
+</div>
   <br>
   <a href="https://t.me/tmetnneemt" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-<div align="center">
-  <img src="https://media.tenor.com/8B3dHvwx8GAAAAAC/happy-groundhog-day.gif" width="400">
-  <p><em>С Днем сурка!</em></p>
-</div>
+
 
 
   
