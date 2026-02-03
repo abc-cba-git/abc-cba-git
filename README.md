@@ -73,7 +73,7 @@ _Простого Telegram бота_
 
 <p align="center">
   <!-- Анимированная картинка -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTQ1Y3Z0azJ5MGQ5ZjM1ZDNlbHYxbjhoa2puOWdmYXYxNnNqNmhmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tknCqiJrBQG6DrC/giphy.gif" width="200" alt="Happy coding">
+  <img src="https://tenor.com/ru/view/happy-groundhog-day-gif-17529021936768136158 " width="200" alt="Happy coding">
   
   <br>
   <a href="https://t.me/tmetnneemt" target="_blank">
