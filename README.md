@@ -34,7 +34,7 @@
 ## 📁 **Мои проекты:**
 
 ### **🎯 [Первый проект](https://github.com/abc-cba-git/first-project)**
-_Мой первый проект на GitHub_
+_Мой сложный проект на GitHub_
 !(https://github.com/abc-cba-git/project)
 
 ### **🌐 [Мой сайт](https://github.com/abc-cba-git/my-website)**
