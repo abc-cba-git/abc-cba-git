@@ -35,7 +35,7 @@
 
 ### **🎯 [Первый проект](https://github.com/abc-cba-git/first-project)**
 _Мой первый проект на GitHub_
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Python](https://github.com/abc-cba-git/project)
 
 ### **🌐 [Мой сайт](https://github.com/abc-cba-git/my-website)**
 _Личный веб-сайт портфолио_
