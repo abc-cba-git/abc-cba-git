@@ -67,7 +67,12 @@
   </a>
 </div>
   
-  
+
+### 📊 Статистика
+![Твоя GitHub статистика](https://github-readme-stats.vercel.app/api?username=твой-ник&show_icons=true&theme=radical)
+
+---
+
 ## 💻 **Мой код:**
 
 ```python
