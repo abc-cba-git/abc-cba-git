@@ -35,7 +35,7 @@
 
 ### **🎯 [Сложный проект](https://github.com/abc-cba-git/first-project)**
 
-!(https://github.com/abc-cba-git/project)
+(https://github.com/abc-cba-git/project)
 
 ---
 
