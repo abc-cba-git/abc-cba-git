@@ -33,18 +33,9 @@
 
 ## 📁 **Мои проекты:**
 
-### **🎯 [Первый проект](https://github.com/abc-cba-git/first-project)**
-_Мой сложный проект на GitHub_
+### **🎯 [Сложный проект](https://github.com/abc-cba-git/first-project)**
+
 !(https://github.com/abc-cba-git/project)
-
-### **🌐 [Мой сайт](https://github.com/abc-cba-git/my-website)**
-_Личный веб-сайт портфолио_
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-### **🤖 [Telegram бот](https://github.com/abc-cba-git/telegram-bot)**
-_Простого Telegram бота_
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ---
 
@@ -55,16 +46,6 @@ _Простого Telegram бота_
 - **Git и GitHub** - контроль версий
 - **Алгоритмы** и структуры данных
 - **PostgteSQL** - написание запросов
-
----
-
-## 🎯 **Мои цели:**
-
-- [x] Создать профиль на GitHub
-- [ ] Научиться работать с Git
-- [ ] Создать 5+ проектов
-- [ ] Изучить Django/Flask
-- [ ] Найти первую работу в IT
 
 ---
 
