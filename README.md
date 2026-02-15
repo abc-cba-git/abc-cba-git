@@ -33,7 +33,7 @@
 
 ## 📁 **Мои проекты:**
 
-### **🎯 [Сложный проект](https://github.com/abc-cba-git/first-project)**
+### **🎯 [Сложный проект] **
 
 (https://github.com/abc-cba-git/project)
 
