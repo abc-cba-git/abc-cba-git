@@ -34,9 +34,10 @@
 ## 📁 **Мои проекты:**
 
 ### 🎯 [Сложный проект]
+(https://github.com/abc-cba-git/bot)
 
-(https://github.com/abc-cba-git/project)
-
+### 🎯 [Начинающий проект]
+(https://github.com/abc-cba-git/bot)
 ---
 
 ## 📚 **Что я изучаю:**
