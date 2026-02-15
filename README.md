@@ -66,10 +66,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
-  
 
-### 📊 Статистика
-![Твоя GitHub статистика](https://github-readme-stats.vercel.app/api?username=твой-ник&show_icons=true&theme=radical)
 
 ---
 
